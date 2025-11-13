@@ -24,7 +24,8 @@ This system helps streamline daily pharmacy activities while ensuring accuracy i
 
 ## 🧩 Database Structure
 Main tables include:
-- `tblemployees` – stores employee information  
-- `tbladmin` – stores admin information  
-- `tblsalary` – stres employee's salary information 
+- `tblagent` – stores employee information  
+- `tblcustomer` – stores customer information  
+- `tblmanufacturer` – stores supplier information 
+- `tblmedicine` – stores medicine information 
 
